@@ -86,7 +86,7 @@ Our project builds a **non-invasive biomarker discovery pipeline** that predicts
 | **Meghana Kusuru** | MS, Bioinformatics & Computational Biology | meghanak@udel.edu |
 | **Sravya Buddha** | MS, Data Science | sravya@udel.edu |
 | **Vinit Raju D** | MS, Data Science | dvinit@udel.edu |
-| **Zainab Butul** | MS, Bioinformatics | butul@udel.edu |
+| **Zainab Butul** | MS, Bioinformatics & Computational Biology | butul@udel.edu |
 | **Aaron Onserioa** | MS, Bioinformatics Data Science | onserioa@udel.edu |
 
 ---
